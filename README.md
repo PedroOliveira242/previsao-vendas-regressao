@@ -1,2 +1,21 @@
-# previsao-vendas-regressao
-Este projeto realiza uma previsão de vendas semanais com base em dados históricos usando Regressão Linear Múltipla com scikit-learn. Ideal para pequenos negócios que desejam estimar a demanda com mais precisão.
+# Previsão de Vendas com IA
+
+Este projeto aplica Regressão Linear Múltipla para prever vendas semanais com base em temperatura, feriados e marketing.
+
+## Tecnologias utilizadas
+- Python 3.11
+- Pandas
+- scikit-learn
+- Jupyter Notebook
+
+## Resultado
+O modelo retorna a previsão de vendas com base nos dados de entrada do cliente.
+
+## Exemplo de entrada
+```python
+temperatura = 31  
+feriado = 0  
+investimento_marketing = 600
+
+## Exemplo de saída
+Previsão de vendas: 215.7
