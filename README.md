@@ -18,4 +18,4 @@ O modelo foi treinado com dados sintéticos e obteve um R² alto, mostrando uma 
 
 ---
 
-> Projeto feito por [Seu Nome] como parte do portfólio de projetos de IA voltado para freelas.
+> Projeto feito como parte do portfólio de projetos de IA.
